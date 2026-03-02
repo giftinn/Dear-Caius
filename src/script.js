@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Aku Milikmu</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Dewa 19</div>
 
 <div class="player">
 <div class="topRow">
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -71,7 +71,7 @@ html:`
 <div class="player" style="width:100%">
 
 <div class="topRow">
-<div class="playIcon" onclick="playVoice('src/audio.mp3',this)">▶</div>
+<div class="playIcon" onclick="playVoice('src/vn.mp3',this)">▶</div>
 
 <div class="progressWrap" onclick="seek(event)">
 <div class="progressBar" id="progressBar"></div>
@@ -108,17 +108,13 @@ html:`
 <div class="letterContent">
 
 <span class="signal">TRANSMISSION START</span><br><br>
+ ; 
+Dear Caius Santiago Malikov,
+I wanted to thank you for how you've loved me lately. Your touch is unlike anything I've ever known, it feels like finally being seen and handled with the care I never expected to find. You’ve shown me a kind of love that makes me realize I actually deserve to be happy. Please don't let the memory of me fade. Even when I’m not physically there, I hope I’m still the person you think of most, because you are certainly the one who stays with me.
 
-TRANSMISSION START
+With all my love,
+Beatrice Rivera
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
-
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
-
-But like late night radio waves that stay playing even when the world sleeps.
-
-END SIGNAL
 <span class="signal">END SIGNAL</span>
 
 </div>
