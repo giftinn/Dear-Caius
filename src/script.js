@@ -108,7 +108,7 @@ html:`
 <div class="letterContent">
 
 <span class="signal">TRANSMISSION START</span><br><br>
- ; 
+
 Dear Caius Santiago Malikov,
 I wanted to thank you for how you've loved me lately. Your touch is unlike anything I've ever known, it feels like finally being seen and handled with the care I never expected to find. You’ve shown me a kind of love that makes me realize I actually deserve to be happy. Please don't let the memory of me fade. Even when I’m not physically there, I hope I’m still the person you think of most, because you are certainly the one who stays with me.
 
